@@ -1,0 +1,9 @@
+[submodule "feature_flag"]
+	path = feature_flag
+	url = https://github.com/ryandedumo-ujet/feature_flag.git
+[submodule "regression_workflow"]
+	path = regression_workflow
+	url = https://github.com/ryandedumo-ujet/regression_workflow.git
+[submodule "testcase-automation"]
+	path = testcase-automation
+	url = https://github.com/ryandedumo-ujet/testcase-automation.git
